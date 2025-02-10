@@ -1,7 +1,7 @@
 ## SF: Period, Question, Exclamation (마침표 등)
 
 ### Definition
-    SF refers to punctuation marks that indicate the end of a sentence, such as **"." (period), "?" (question mark), and "!" (exclamation mark).** It defines sentence boundaries and determines the overall tone of a sentence.  
+SF refers to punctuation marks that indicate the end of a sentence, such as **"." (period), "?" (question mark), and "!" (exclamation mark).** It defines sentence boundaries and determines the overall tone of a sentence.  
 
 ### Examples
 - 오늘 날씨가 좋아 **.** (The weather is nice today.)

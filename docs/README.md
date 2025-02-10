@@ -20,7 +20,7 @@
 | JKC | Postposition, complement (보격 조사) |
 | JKG | Postposition, prenominal (관형격 조사) |
 | JKO | Postposition, objectival (목적격 조사) |
-| JKB | Postposition, adverbial (부사격 조사) |
+| [JKB](./XPOS/7_JKB.md) | Postposition, adverbial (부사격 조사) |
 | JKV | Postposition, vocative (호격 조사) |
 | JKQ | Postposition, quotative (인용격 조사) |
 | JC | Postposition, conjunctive (접속 조사) |
