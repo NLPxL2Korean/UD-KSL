@@ -1,7 +1,7 @@
 ## JKO: Postposition, objectival (목적격 조사)
 
 ### Definition
-    JKO refers to postpositions that attach to nouns and pronouns to indicate various object roles in a sentence, functioning as a case marker.
+JKO refers to postpositions that attach to nouns and pronouns to indicate various object roles in a sentence, functioning as a case marker.
 
 ---
 
