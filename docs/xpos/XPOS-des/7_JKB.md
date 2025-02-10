@@ -1,4 +1,4 @@
-## JKB: Postposition, adverbial (부사격 조사)
+## JKB: Postposition_adverbial (부사격 조사)
 
 ### Definition
 JKB refers to postpositions that attach to nouns and pronouns to indicate various adverbial roles, functioning as a case marker.
@@ -17,8 +17,8 @@ JKB refers to postpositions that attach to nouns and pronouns to indicate variou
 ### Boundary cases and clarifications  
 
 #### Special cases  
-- **Distinguishing JKB from JC (Postposition, conjunctive, 접속 조사):**  
-  - Some JKB postpositions are identical in surface form to certain conjunctive postpositions (JC), such as 와/과, 하고, and 랑. However, they must be differentiated based on their function within the sentence.  
+- **Distinguishing JKB from JC (Postposition_conjunctive, 접속 조사):**  
+  - Some JKB postpositions are identical in surface form to certain JC, such as 와/과, 하고, and 랑. However, they must be differentiated based on their function within the sentence.  
   - The key distinction is that JC links elements of the same grammatical case, whereas JKB serves an adverbial role.  
     - **JKB:** 나는 친구**하고** 서울에 갔습니다. (I went to Seoul *with a friend*.)  
     - **JC:** 서울에 식당**하고** 영화관이 있었습니다. (There was a *restaurant and a movie theater* in Seoul.)  
