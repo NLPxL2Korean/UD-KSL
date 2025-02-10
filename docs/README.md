@@ -1,54 +1,44 @@
-### The following table provides a Sejong Tag set. 
+## Annotation guidelines
+This page is currently under construction.
 
-| Tag | Description |
-|---|---|
-| [NNG](./XPOS-des/1_NNG.md) | Noun, common (보통 명사) |
-| NNP | Proper Noun (고유 명사) |
-| NNB | Noun, common bound (의존 명사) |
-| NR  | Numeral (수사) |
-| NP  | Pronoun (대명사) |
-| [VV](./XPOS-des/2_VV.md)  | Verb, main (동사) |
-| VA  | Adjective (형용사) |
-| VX  | Verb, auxiliary (보조 동사) |
-| VCP | Copular, positive (긍정 지정사) |
-| VCN | Copular, negative (부정 지정사) |
-| MM | Determiner (관형사) |
-| MAG | Common adverb (일반 부사) |
-| MAJ | Conjunctive adverb (접속 부사) |
-| IC | Exclamation (감탄사) |
-| JKS | Postposition, nominative (주격 조사) |
-| JKC | Postposition, complement (보격 조사) |
-| JKG | Postposition, prenominal (관형격 조사) |
-| JKO | Postposition, objectival (목적격 조사) |
-| [JKB](./XPOS-des/7_JKB.md) | Postposition, adverbial (부사격 조사) |
-| JKV | Postposition, vocative (호격 조사) |
-| JKQ | Postposition, quotative (인용격 조사) |
-| JC | Postposition, conjunctive (접속 조사) |
-| JX | Postposition, auxiliary (보조사) |
-| EP | Ending, prefinal (선어말 어미) |
-| [EF](./XPOS-des/4_EF.md) | Ending, closing (종결 어미) |
-| [EC](./XPOS-des/3_EC.md) | Ending, connecting (연결 어미) |
-| ETN | Ending, nounal (명사형 전성 어미) |
-| [ETM](./XPOS-des/6_ETM.md) | Ending, determinitive (관형형 전성 어미) |
-| XPN | Prefix, nounal (체언 접두사) |
-| XSN | Suffix, noun derivative (명사 파생 접미사) |
-| XSV | Suffix, verb derivative (동사 파생 접미사) |
-| XSA | Suffix, adjective derivative (형용사 파생 접미사) |
-| XR | Root (어근) |
-| NF | Undecided (consider a noun) (명사 추정) |
-| NV | Undecided (consider a verb) (용언 추정) |
-| NA | Undecided (분석 불능) |
-| [SF](./XPOS-des/5_SSS.md) | Period, Question, Exclamation (마침표 등) |
-| [SE](./XPOS-des/5_SSS.md) | Ellipsis (줄임표) |
-| [SS](./XPOS-des/5_SSS.md) | Quotation, Bracket, Dash (따옴표 등) |
-| [SP](./XPOS-des/5_SSS.md) | Comma, Colon, Slash (쉼표,콜론, 빗금) |
-| [SO](./XPOS-des/5_SSS.md) | Hyphen, Swung Dash (붙임표, 물결표) |
-| [SW](./XPOS-des/5_SSS.md) | Symbol (기타기호) |
-| [SH](./XPOS-des/5_SSS.md) | Chinese characters (한자) |
-| [SL](./XPOS-des/5_SSS.md) | Foreign characters (외국어) |
-| [SN](./XPOS-des/5_SSS.md) | Number (숫자) |
 
-#### References
+### XPOS tags
+See [here](./xpos/README.md).
 
-- The English description was sourced from [Jeong (2018)](http://dx.doi.org/10.3938/NPSM.68.636). 
-- See also [Kim et al. (2007)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01065207) for the detailed descriptions of the tag set.
+### UD tags
+See [here](./ud/README.md).
+
+---
+
+### Previous descriptions (from KLM corpus)
+
+Voice markers such as *-i/hi/li/ki/wu/kwu/chwu-* (morphological causative) and *-i/hi/li/ki-* (suffixal passive) indicate causative and passive voices. They attach to a root to form causative or passive verbs, altering the number of arguments a predicate controls in a clausal construction. We parsed these morphemes and assigned a XSV tag.
+
+- Example: `mek+ta "to eat" (VV+ EF); mek+hi+ta "to be eaten" (VV+XSV+EF)`
+
+### Auxiliary verbs
+
+Verbs like *iss-* "to be/exist/have", *ha-* "to do", and *toy-* "to become" can act as both main and auxiliary verbs. As main verbs, they represent concepts of existence, activity, or possession. In these cases, we assigned a VV tag.
+
+- Example: `ku+nun cha+ka iss+ta (VV+EF) "He has a car"`
+
+As auxiliary verbs, they work with a main verb to convey grammatical meanings, such as continuous or progressive actions. In these instances, we assigned a VX tag.
+
+- Example: `ku+nye+nun chayk+ul ilk+ko iss+ta (VX+EF) "She is reading a book"`
+
+### Copula (Positive)
+
+The copula (*-i*) links the subject of a sentence with a predicate, often conveying a positive meaning (VCP). Parsing complexities arise when the copula combines with the ending *-lanun*. This combination links the subject of a sentence to a noun or descriptive phrase, adding a specification, identification, or definition nuance.
+
+- Example: `swukcey+lanun "(the thing) called homework" → swukcey+i+lanun (NNG+VCP+ETM).`
+
+### `advmod` vs. `obl`
+
+- noun+보조사(`advmod`): -까지, -뿐만, -도, -만
+- noun+격조사(`obl`): -에, -에게, -보다, -한테, -처럼, -(으)로, -와/과, -에서, -보고
+
+### Spelling errors
+
+Instead of subjectively interpreting misspelled words, we assigned three tags from the Sejong tag set: NA (Undefined), NF (Undefined, but considered a noun), and NV (Undefined, but considered a verb).
+
+##### * We will update more detailed guidelines/examples for other morpheme categories shortly!
