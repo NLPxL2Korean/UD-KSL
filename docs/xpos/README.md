@@ -7,7 +7,7 @@
 | NNB | Noun_common_bound (의존 명사) |
 | NR  | Numeral (수사) |
 | NP  | Pronoun (대명사) |
-| [VV](./XPOS-des/2_VV.md)  | Verb, main (동사) |
+| [VV](./XPOS-des/2_VV.md)  | Verb_main (동사) |
 | VA  | Adjective (형용사) |
 | VX  | Verb_auxiliary (보조 동사) |
 | VCP | Copular_positive (긍정 지정사) |
