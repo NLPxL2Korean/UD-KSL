@@ -1,7 +1,7 @@
 ## JKB: Postposition, adverbial (부사격 조사)
 
 ### Definition
-    JKB refers to postpositions that attach to nouns and pronouns to indicate various adverbial roles, functioning as a case marker.
+JKB refers to postpositions that attach to nouns and pronouns to indicate various adverbial roles, functioning as a case marker.
 
 ---
 
