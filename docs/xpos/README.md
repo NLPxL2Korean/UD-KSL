@@ -3,7 +3,7 @@
 | Tag | Description |
 |---|---|
 | [NNG](./XPOS-des/1_NNG.md) | Noun_common (보통 명사) |
-| NNP | Noun_proper (고유 명사) |
+| [NNP](./XPOS-des/17_NNP.md) | Noun_proper (고유 명사) |
 | NNB | Noun_common_bound (의존 명사) |
 | NR  | Numeral (수사) |
 | NP  | Pronoun (대명사) |
