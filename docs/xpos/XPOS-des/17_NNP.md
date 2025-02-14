@@ -1,4 +1,4 @@
-## NNP: Proper noun (고유 명사)
+## NNP: Proper_noun (고유 명사)
 
 ### Definition
 NNP refers to a noun that represents a unique name distinguishing a specific object or person from others.
@@ -16,8 +16,8 @@ NNP refers to a noun that represents a unique name distinguishing a specific obj
 ### Boundary cases and clarifications
 
 #### Special cases
-- **Distinction between NNP and NNG:**
-    - n English, NNP is distinguished from Noun_common (NNG, 보통 명사) by capitalization. However, in Korean, the distinction between NNP and NNG is conceptual rather than visually apparent. Because NNP specifically refers to particular entities, it is often more challenging to translate into other languages compared to NNG.
+- **Distinction between NNP and NNG(Noun_common, 보통 명사):**
+    - n English, NNP is distinguished from NNG by capitalization. However, in Korean, the distinction between NNP and NNG is conceptual rather than visually apparent. Because NNP specifically refers to particular entities, it is often more challenging to translate into other languages compared to NNG.
     - Not all unique entities qualify as NNP. For example, while "sun" and "earth" are unique objects, they are categorized as NNG. Even though multiple individuals may have the name "Chulsoo," it is classified as NNP because it is a proper name.
         - **NNP**: **빌리** 씨는 사진 찍는 것을 좋아합니다. (Billy likes taking photos.)
         - **NNG**: **해**가 뜨자마자 우리는 출발했습니다. (As soon as the sun rose, we departed.)
