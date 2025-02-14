@@ -1,4 +1,4 @@
-## VV: Verb, main (동사)
+## VV: Verb_main (동사)
 
 ### Definition
 VV refers to actions, movements, states, or occurrences as part of lexical verbs.
@@ -23,8 +23,8 @@ VV refers to actions, movements, states, or occurrences as part of lexical verbs
      - **VA**: 좋다 (be good), 많다 (be many), 예쁘다 (be pretty)
 <br>
 
-2. **VV vs. VX (Verb, auxiliary, 보조 동사)**:
-   - **VV** functions as the main verb with an independent meaning, whereas **VX** is used only with a main verb to complement or modify its meaning.  
+2. **VV vs. VX (Verb_auxiliary, 보조 동사)**:
+   - VV functions as the main verb with an independent meaning, whereas VX is used only with a main verb to complement or modify its meaning.  
       - **VV**: 영화를 **본다** (I *watch* a movie)
       - **VX**: 음식을 먹어 **본다** (I *try* eating the food.)
 
