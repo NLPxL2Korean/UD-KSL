@@ -1,7 +1,7 @@
-## NNG: Noun, common (보통 명사)
+## NNG: Noun_common (보통 명사)
 
 ### Definition
-    Common nouns refer to general entities, objects, concepts, or phenomena.
+NNG refers to general entities, objects, concepts, or phenomena.
 
 ---
 
@@ -16,7 +16,7 @@
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-- **NNG vs. NNP (Proper Noun, 고유 명사):**  
+- **NNG vs. NNP (Noun_proper, 고유 명사)):**  
   NNG is used for general nouns, while NNP is reserved for specific names, such as the names of people, places, or organizations.  
   - **NNG**: 사람 (person), 도시 (city), 나라 (country)  
   - **NNP**: 철수 (Cheol-Soo), 서울 (Seoul), 태국 (Thailand)  
