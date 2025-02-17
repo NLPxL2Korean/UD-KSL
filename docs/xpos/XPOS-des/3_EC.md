@@ -1,7 +1,7 @@
-## EC: CEnding, connecting (연결 어미)
+## EC: CEnding_connecting (연결 어미)
 
 ### Definition
-    EC is a type of verbal ending that connects clauses or phrases, linking them without final termination and often indicating logical relationships between clauses.
+EC is a type of verbal ending that connects clauses or phrases, linking them without final termination and often indicating logical relationships between clauses.
 
 ---
 
@@ -17,7 +17,7 @@
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-- **EC vs. EF (Ending, closing, 종결 어미):**  
+- **EC vs. EF (Ending_closing, 종결 어미):**  
   - ECs connect clauses, while EFs terminate a sentence and mark its modality.  
     - **EC**: 비가 **와서** 우산을 챙긴다.  
     - **EF**: 비가 **온다**. 우산을 **챙긴다**.  
@@ -26,8 +26,8 @@
 1. **Clause endings and sentence completion:**  
    - Specific endings like "-는지" and "-ㄹ지" can be tagged as either EC or EF depending on the context. Unless the ending is used to complete a sentence and is tagged as EF, it is consistently tagged as EC when functioning within a clause.  
       - 그가 언제 오**는지**(EC) 궁금하다.  
-      - 그가 언제 오**는지**(EF).  
-<br>
+      - 그가 언제 오**는지**(EF).
+
 2. **Morphological variations:**  
    - In Korean, the form of an EC can change depending on the final syllable of the verb stem. For example, the **"-으면서"** takes the form **"-면서"** when the verb stem ends in a vowel or the final consonant 'ㄹ'.  
       - 음악을 **들으면서** → 듣- + **-으면서** (EC)  
