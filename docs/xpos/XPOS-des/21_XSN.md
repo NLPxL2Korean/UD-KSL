@@ -19,8 +19,8 @@ XSN refers to a suffix that derives a noun from another word, typically from ver
 - **Cases where XSN is not parsed separately:**  
   - XSN tag primarily functions as a 'suffix' rather than a derivational morpheme that creates new nouns. Therefore, in most cases, XSN is parsed separately when it attaches to a noun to add additional meaning.
   - However, if a noun is derived from a verb or an adjective, it is not tagged as XSN.
-    - **오키나와행(NNP+XSN)** 비행기를 탔다
-    - 이 빌딩의 **높이(NNG)**는 634m이다.
+    - **오키나와행**(NNP+XSN) 비행기를 탔다
+    - 이 빌딩의 **높이**(NNG)는 634m이다.
     
 ---
 
