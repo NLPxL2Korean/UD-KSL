@@ -1,7 +1,7 @@
-## JX: Postposition, auxiliary (보조사)
+## JX: Postposition_auxiliary (보조사)
 
 ### Definition
-    JX refers to postpositions that modify the meaning of a phrase by adding contrast, topic marking, or other discourse-related functions, rather than assigning a specific grammatical case.
+JX refers to postpositions that modify the meaning of a phrase by adding contrast, topic marking, or other discourse-related functions, rather than assigning a specific grammatical case.
 
 ---
 
