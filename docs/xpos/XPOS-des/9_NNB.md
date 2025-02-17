@@ -1,4 +1,4 @@
-## NNB: Noun, common bound (의존 명사)
+## NNB: Noun_common_bound (의존 명사)
 
 ### Definition
     NNB refers to a noun that cannot stand alone with complete meaning and must be modified by a preceding element, such as a verb stem with a modifier ending or a determiner.
@@ -18,18 +18,18 @@
 ### Boundary cases and clarifications  
 
 #### Differences with related tags  
-- **NNB vs. NNG (Noun, common, 보통 명사):**  
+- **NNB vs. NNG (Noun_common, 보통 명사):**  
   - NNB requires an accompanying modifier, so it cannot appear at the beginning of a sentence. In contrast, NNG refers to independent nouns that can function as standalone words.  
   - **Example**:  
     - 그는 **책(NNG)**을 읽는 **중(NNB)**이다. (He is reading a book.)  
 
-- **NNB vs. XSN (Suffix, noun derivative, 명사 파생 접미사):**  
+- **NNB vs. XSN (Suffix_noun_derivative, 명사 파생 접미사):**  
   - NNB is essentially a noun, so it can be written separately from the preceding word, whereas XSN is an affix and must be written together with the preceding word.  
     - **NNB**: 빌리 **씨**, 낯선 **이**  
     - **XSN**: 사람**들**, 선생**님**  
 
 #### Special cases  
-- **Distinguishing NNB from JX (Postposition, auxiliary, 보조사):**  
+- **Distinguishing NNB from JX (Postposition_auxiliary, 보조사):**  
   - Some NNBs are identical to certain auxiliary postpositions (JX) in their surface form, such as 뿐, 대로, and 만큼. They must be distinguished and tagged. Generally, JX is attached to nouns, whereas NNB is typically used with the modified form of verbal stems.  
     - **NNB**: 선생님이 말씀하신 **대로**  
     - **JX**: 우리 마음**대로**  
