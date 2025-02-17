@@ -1,7 +1,7 @@
-## XSV: Suffix, verb derivative (동사 파생 접미사)
+## XSV: Suffix_verb_derivative (동사 파생 접미사)
 
 ### Definition
-    XSV refers to a suffix that attaches to a noun or the stem of an adjective to form verb stems.
+XSV refers to a suffix that attaches to a noun or the stem of an adjective to form verb stems.
 
 ---
 
@@ -17,8 +17,7 @@
 ### Boundary cases and clarifications
 
 #### Differences with related tags 
-- **XSV vs. XSA (Suffix, adjective derivative, 형용사 파생 접미사):**
-    
+- **XSV vs. XSA (Suffix_adjective_derivative, 형용사 파생 접미사):**
     - When XSV or XSA is attached to a noun, both can transform the noun into a predicate. However, XSV converts a noun into a verb, whereas XSA converts a noun into an adjective.  
         - **XSV**: 난 이 아이디어를 제안**한다**. 
         - **XSA**: 나는 시간이 더 필요**하다**.  
