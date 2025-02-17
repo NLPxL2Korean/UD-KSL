@@ -18,7 +18,7 @@ XSA refers to a suffix that attaches to a noun or root to form an adjective stem
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-- **XSA vs. VA (adjective, 형용사):**
+- **XSA vs. VA (Adjective, 형용사):**
   - Adjectives formed with ‘noun + 있다/없다’ have a structure similar to ‘noun + XSA,’ but ‘있다/없다’ should be tagged as VA rather than XSA.
   - Since ‘있다/없다’ is listed as an adjective in dictionaries, cases where a noun combines with these words should be parsed as a compound word rather than a derived form.
     - 이 책은 **재미있다**: 재미(NNG) + 있(VA) + 다(EF)
