@@ -1,7 +1,7 @@
-## MAG: Common adverb (일반 부사)
+## MAG: Adverb_common (일반 부사)
 
 ### Definition
-    MAG refers to adverbs that primarily modify verbs, adjectives, other adverbs, or entire sentences.
+MAG refers to adverbs that primarily modify verbs, adjectives, other adverbs, or entire sentences.
 
 ---
 
@@ -23,7 +23,7 @@
     - **MAG**: 그 사람이 **바로** 우리 선생님이다. 
     - **MM**: 내일부터 **새** 학기가 시작됩니다. 
 
-- **MAG vs. MAJ (Conjunctive adverb, 접속 부사):**  
+- **MAG vs. MAJ (Adverb_conjunctive, 접속 부사):**  
   - While MAG modifies verbs, adjectives, or sentences, MAJ functions as a discourse-level connective and typically appears at the beginning of a sentence.  
     - **MAG**: **꼭** 볼만한 영화라고 생각해요. 
     - **MAJ**: **그래서** 그는 사진기를 빌렸습니다. 
