@@ -1,7 +1,7 @@
-## ETM: Ending, determinitive (관형형 전성 어미)
+## ETM: Ending_determinitive (관형형 전성 어미)
 
 ### Definition
-    ETM is a type of verbal ending that modifies the function of a verb stem, allowing it to describe a noun within a sentence.
+ETM is a type of verbal ending that modifies the function of a verb stem, allowing it to describe a noun within a sentence.
 
 ---
 
