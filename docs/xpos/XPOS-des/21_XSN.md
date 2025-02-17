@@ -1,4 +1,4 @@
-## XSN: Suffix_noun derivative (명사 파생 접미사)
+## XSN: Suffix_noun_derivative (명사 파생 접미사)
 
 ### Definition
 XSN refers to a suffix that derives a noun from another word, typically from verbs and adjectives, as well as from nouns by adding specific meanings.
