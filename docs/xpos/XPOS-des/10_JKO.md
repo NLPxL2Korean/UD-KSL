@@ -1,4 +1,4 @@
-## JKO: Postposition, objectival (목적격 조사)
+## JKO: Postposition_objectival (목적격 조사)
 
 ### Definition
 JKO refers to postpositions that attach to nouns and pronouns to indicate various object roles in a sentence, functioning as a case marker.
@@ -9,8 +9,8 @@ JKO refers to postpositions that attach to nouns and pronouns to indicate variou
 - **‘을’** and **‘를’** are used with objective elements, which serve as the target of an action within a sentence that includes a transitive verb.  
 - The choice between ‘을’ and ‘를’ depends on the final sound of the preceding noun; **을** is used after a noun ending in a consonant, and **를** is used after a noun ending in a vowel.  
   - **Examples**:
-    - 나는 책**을** 읽었다. (*a book* in English)  
-    - 나는 사과**를** 먹는다. (*an apple* in English)  
+    - 나는 책**을** 읽었다. (I read *a book*.)  
+    - 나는 사과**를** 먹는다. (I am eating *an apple*.)  
 
 ---
 
