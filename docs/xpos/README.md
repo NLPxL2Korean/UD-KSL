@@ -31,7 +31,7 @@
 | [ETN](./XPOS-des/26_ETN.md) | Ending_nounal (명사형 전성 어미) |
 | [ETM](./XPOS-des/6_ETM.md) | Ending_determinitive (관형형 전성 어미) |
 | [XPN](./XPOS-des/30_XPN.md) | Prefix_nounal (체언 접두사) |
-| [XSN](./XPOS-des/21_NNG.md) | Suffix_noun_derivative (명사 파생 접미사) |
+| [XSN](./XPOS-des/21_XSN.md) | Suffix_noun_derivative (명사 파생 접미사) |
 | [XSV](./XPOS-des/14_XSV.md) | Suffix_verb_derivative (동사 파생 접미사) |
 | [XSA](./XPOS-des/24_XSA.md) | Suffix_adjective_derivative (형용사 파생 접미사) |
 | [XR](./XPOS-des/28_XR.md) | Root (어근) |
