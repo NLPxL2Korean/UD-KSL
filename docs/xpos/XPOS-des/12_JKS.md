@@ -1,7 +1,7 @@
-## JKS: Postposition, nominative (주격 조사)
+## JKS: Postposition_nominative (주격 조사)
 
 ### Definition
-    JKS refers to postpositions that attach to nouns and pronouns to indicate various subject roles in a sentence, functioning as a case marker.
+JKS refers to postpositions that attach to nouns and pronouns to indicate various subject roles in a sentence, functioning as a case marker.
 
 ---
 
@@ -21,7 +21,7 @@
 ### Boundary cases and clarifications
 
 #### Differences with related tags  
-- **JKS vs. JKC (postposition, complement, 보격 조사):**  
+- **JKS vs. JKC (Postposition_complement, 보격 조사):**  
   - '이' and '가' can function as both JKS and JKC, but their roles in a sentence are different. JKS attaches to the subject, which is a fundamental component of every sentence. JKC, on the other hand, attaches to a complement, which is essential for certain specific predicates. 
     - 내**가(JKS)** 선생님**이(JKC)** 되었다. (*I* became a *teacher*.)  
     - 언어를 배우는 것**이(JKS)** 쉬운 일**이(JKC)** 아니야. (*Learning a language* is not *an easy task.*)  
