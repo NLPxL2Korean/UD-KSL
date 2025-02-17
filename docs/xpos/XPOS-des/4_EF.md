@@ -1,7 +1,7 @@
-## EF: Ending, closing (종결 어미)
+## EF: Ending_closing (종결 어미)
 
 ### Definition
-    EF is a type of verbal ending that indicates the completion of a sentence and conveys the sentence mood at the end of verbal stems.
+EF is a type of verbal ending that indicates the completion of a sentence and conveys the sentence mood at the end of verbal stems.
 
 ---
 
@@ -20,8 +20,8 @@
 
 #### Differences with related tags
 
-- **EF vs. EP (Ending, prefinal, 선어말 어미):**  
-  While **EF** finalizes the sentence, **EP** appears before EF to indicate tense or honorific meaning. Generally, Korean verb endings follow the order: verbal stem → EP → EF.  
+- **EF vs. EP (Ending_prefinal, 선어말 어미):**  
+  While **EF** finalizes the sentence, **EP** appears before EF to indicate tense or honorific meaning. Generally, Korean verb endings follow the order: verbal stem + EP + EF.  
     - **Examples**:
       - 학교에 **가다**(VV+EF): I go to school.  
       - 학교에 **갔다**(VV+EP+EF): I went to school.  
