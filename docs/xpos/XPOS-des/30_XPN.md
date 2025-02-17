@@ -17,7 +17,7 @@ XPN refers to affixes that attach to the front of nouns and modify or refine the
 
 ### Boundary cases and clarifications
 #### Special cases
-- **Distinguishing XPN from MM**:
+- **Distinguishing XPN from MM(Determiner, 관형사)**:
   - Both XPN and MM modify nouns. So distinguishing whether a word is a derived form in 'XPN+NNG' or a compound form in 'MM+NNG' is not always straightforward based solely on grammatical functions.
   - Additionally, distinguishing between compound nouns in the form of 'NNG+NNG'—especially when the first noun is monosyllabic and semantically modifies the second noun—and derived forms in 'XPN+NNG' can be confusing. 
   - In such cases, dictionary classification is prioritized, but some words may be tagged differently from their dictionary-defined parts of speech.
