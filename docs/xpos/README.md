@@ -5,8 +5,8 @@
 | [NNG](./XPOS-des/1_NNG.md) | Noun_common (보통 명사) |
 | [NNP](./XPOS-des/17_NNP.md) | Noun_proper (고유 명사) |
 | [NNB](./XPOS-des/9_NNB.md) | Noun_common_bound (의존 명사) |
-| [NR](./XPOS-des/18_NP.md)  | Numeral (수사) |
-| [NP](./XPOS-des/31_NR.md)  | Pronoun (대명사) |
+| [NR](./XPOS-des/31_NR.md)  | Numeral (수사) |
+| [NP](./XPOS-des/18_NP.md)  | Pronoun (대명사) |
 | [VV](./XPOS-des/2_VV.md)  | Verb_main (동사) |
 | [VA](./XPOS-des/13_VA.md)  | Adjective (형용사) |
 | [VX](./XPOS-des/15_VX.md)  | Verb_auxiliary (보조 동사) |
