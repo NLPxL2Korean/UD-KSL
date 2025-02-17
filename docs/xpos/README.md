@@ -18,7 +18,7 @@
 | IC | Exclamation (감탄사) |
 | [JKS](./XPOS-des/12_JKS.md) | Postposition_nominative (주격 조사) |
 | [JKC](./XPOS-des/32_JKC.md) | Postposition_complement (보격 조사) |
-| [JKG](./XPOS-des/21_JKG.md) | Postposition_prenominal (관형격 조사) |
+| [JKG](./XPOS-des/22_JKG.md) | Postposition_prenominal (관형격 조사) |
 | [JKO](./XPOS-des/10_JKO.md) | Postposition_objectival (목적격 조사) |
 | [JKB](./XPOS-des/7_JKB.md) | Postposition_adverbial (부사격 조사) |
 | JKV | Postposition_vocative (호격 조사) |
