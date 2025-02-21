@@ -25,7 +25,6 @@
 #### Special cases
 1. **"것 같다" construction**  
    - The phrase "것 같다" is a predicate that expresses conjecture or assumption. Grammatically, '것' is classified as NNB (Noun_common_bound, 의존 명사), and '같다' as VA (Adjective, 형용사). Since they are always written separately, when '같다' is annotated as root, the role of '것' is tagged as nsubj.
-   - **Examples**:
      - 도서관에서 심심했을 <ins>**것**</ins> 같다.
      - <ins>**나이가**</ins> 나보다 많을 <ins>**것**</ins> 같다.
 
@@ -33,7 +32,6 @@
    - For ungrammatical sentences, the element marked with JKS (e.g., '이/가') is tagged as nsubj even if it does not serve as the logical subject.
    - When there is no case marker, the element functioning as the subject based on context is tagged as nsubj.
    - This criterion is applied to all major syntactic components typically marked by case markers in Korean. Since case markers play a crucial role in Korean syntax, this approach minimizes the risk of assigning tags based on subjective interpretation.
-   - **Examples**:
      - 이야기를 하면서 <ins>**기억이(*기억을)**</ins> 떠올려 보세요.
      - <ins>**제가**</ins> <ins>**친구가**</ins> 선물을 주었습니다.
 
