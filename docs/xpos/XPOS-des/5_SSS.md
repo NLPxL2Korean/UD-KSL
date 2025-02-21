@@ -36,12 +36,12 @@ SS includes punctuation marks used to enclose or separate content, such as quota
 ### Examples
 - **"**주말에 봐요**"** 라고 인사했습니다.  
 - 인상깊게 읽은 책은 **'**데미안**'** 입니다.  
-- 파티는 1월 25일 **(**일**)** 에 열릴 예정이에요.  
+- 파티는 1월 25일 **(** 일 **)** 에 열릴 예정이에요.  
 
 ## SL: Foreign characters (외국어)
 
 ### Definition
-SL includes words written in foreign languages such as the alphabet (English letters) that are not part of Hangul.
+SL includes words written in foreign languages such as the alphabet that are not part of Hangul.
 
 ### Examples
 - **KTX**를 타고 부산에 갈 겁니다.  
@@ -54,9 +54,9 @@ SL includes words written in foreign languages such as the alphabet (English let
 SE refers to the **ellipsis (…)**, a punctuation mark used to indicate omitted content, hesitation, or trailing thoughts.
 
 ### Examples
-- 눈사람을 만들어 본 적은 없어요...  
-- 난 너밖에 없어...  
-- 나처럼... 못난 자식은 없을 거야.  
+- 눈사람을 만들어 본 적은 없어요 **...**  
+- 난 너밖에 없어 **...**  
+- 나처럼 **...** 못난 자식은 없을 거야.  
 
 ## SO: Hyphen, Swung Dash (붙임표, 물결표)
 
@@ -64,9 +64,9 @@ SE refers to the **ellipsis (…)**, a punctuation mark used to indicate omitted
 SO refers to punctuation marks used for word separation or stylistic emphasis. A hyphen (-) links compound words or indicates word breaks, while a swung dash (~) expresses **a range or duration**.
 
 ### Examples
-- 서울-부산 간 KTX  
-- 2~3시간 이후에 약을 드세요.  
-- 일주일에 3~4번 운동을 해요.  
+- 서울 **-** 부산 간 KTX  
+- 2 **~** 3시간 이후에 약을 드세요.  
+- 일주일에 3 **~** 4번 운동을 해요.  
 
 ## SW: Symbol (기타 기호)
 
@@ -74,6 +74,6 @@ SO refers to punctuation marks used for word separation or stylistic emphasis. A
 SW refers to miscellaneous symbols that do not fall under other punctuation categories.
 
 ### Examples
-- 오른쪽으로 100**m** 이동하세요.  
-- 싱크로율 100%의 연기를 보여준다.  
-- 물건의 가격은 $10입니다.  
+- 오른쪽으로 100 **m** 이동하세요.  
+- 싱크로율 100 **%** 의 연기를 보여준다.  
+- 물건의 가격은 **$** 10입니다.  
