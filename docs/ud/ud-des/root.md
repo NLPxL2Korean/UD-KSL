@@ -21,7 +21,7 @@
 #### Special cases
 1. **Coordinated clauses**
   - When two or more clauses within a sentence are connected in a sequential, contrasting, or alternative relationship, the first predicate is parsed as the root, while the others are tagged as conj (Conjunct) dependent on the root.
-  - If conj is dependent on the root, the coordinating relationship is typically expressed using EC (Ending_Connecting, 연결 어미) such as '-고', '-(으)며', or '-(으)나'.
+  - If conj is dependent on the root, the root tag typically includes EC (Ending_Connecting, 연결 어미) such as '-고', '-(으)며', or '-(으)나'.
     - 방학 때 수영을 <ins>**했고**</ins>(root) 말도 <ins>**탔습니다요**</ins>(conj).
     - 사진을 <ins>**찍거나**</ins>(root) 꽃을 <ins>**구경해요**</ins>(conj).
 
