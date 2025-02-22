@@ -15,7 +15,7 @@
 | [conj](./ud-des/conj.md) | Conjunct |
 | [amod](./ud-des/amod.md) | Adjectival modifier |
 | [cc](./ud-des/cc.md) | Coordinating conjunction |
-| [nmod:poss](./ud-des/nmod_poss.md) | Possessive modifier |
+| [nmod:poss](./ud-des/nmod.md) | Possessive modifier |
 | [det](./ud-des/det.md) | Determiner |
 | [case](./ud-des/case.md) | Case marker |
 | [flat](./ud-des/flat.md) | Flat multiword expression |
