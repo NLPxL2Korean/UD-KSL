@@ -19,7 +19,7 @@
 ### Boundary cases and clarifications
 #### Differences with related tags
 - **obl vs. advmod (Adverbial modifier):**  
-    - From a part-of-speech perspective, the obl tag generally includes a noun, whereas the advmod tag typically consists of either (1) adverbs or verb stems combined with the suffix '-게'.
+    - Both the obl and advmod tags function as adverbials within a sentence. From a part-of-speech perspective, the obl tag generally includes a noun, whereas the advmod tag typically consists of either adverbs or verb stems combined with the suffix '-게'.
     - Some Korean words such as '어제' and '오늘' can function as both nouns and adverbs, allowing for both obl and advmod tagging depending on the context.
         - **obl**: <ins>**기차로**</ins> 이동합니다.
         - **advmod**: <ins>**천천히**</ins> 이동합니다.
