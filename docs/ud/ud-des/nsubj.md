@@ -1,7 +1,7 @@
 ## nsubj: Nominal subject
 
 ### Definition
-`nsubj` refers to a nominal subject that serves as the agent or experiencer of the action or state described by the predicate.
+`nsubj` refers to the nominal subject, one of the core arguments that serves as the agent or experiencer of the action or state described by the predicate.
 
 ---
 
