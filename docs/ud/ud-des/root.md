@@ -1,4 +1,4 @@
-## root: Root of the sentence
+## root: Root
 
 ### Definition
 `root` refers to the core syntactic head of a sentence, typically a predicate such as a verb or adjective that describes the subject’s action, state, or quality.
