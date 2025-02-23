@@ -36,3 +36,4 @@
 ### Examples
 
 ![acl Example](acl.png)
+The `acl:relcl` tag is standardized as the `acl` tag.
