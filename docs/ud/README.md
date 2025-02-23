@@ -5,7 +5,7 @@
 | [nsubj](./ud-des/nsubj.md) | Nominal subject |
 | [punct](./ud-des/punct.md) | Punctuation |
 | [obl](./ud-des/obl.md) | Oblique nominal |
-| [root](./ud-des/root.md) | Root of the sentence |
+| [root](./ud-des/root.md) | Root |
 | [obj](./ud-des/obj.md) | Object |
 | [advmod](./ud-des/advmod.md) | Adverbial modifier |
 | [advcl](./ud-des/advcl.md) | Adverbial clause modifier |
