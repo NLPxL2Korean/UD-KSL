@@ -23,14 +23,13 @@ XSV refers to a suffix that attaches to a noun or the stem of an adjective to fo
         - **XSA**: 나는 시간이 더 필요**하다**.  
 
 #### Special cases
-- **Passive and causative suffixes:**
+1. **Passive and causative suffixes**
   - The suffixes "-이-, -히-, -리-, -기-, -우-, -구-, -추-" attach to verb or adjective stems to convey passive or causative meanings. When these suffixes combine with adjectives (VA), they derive a verb and are tagged as XSV. When they attach to verbs (VV), they do not create a new derivation but still add specific meanings, so they are also tagged as XSV.  
     - 야식은 비만의 가능성을 **높인다**.: 높(VA) + **이(XSV)** + ㄴ다(EF) 
     - 자정에 기숙사의 문이 **닫힌다**.: 닫(VV) + **히(XSV)** + ㄴ다 
     - 난 너무 **떨려서** 말을 잘 못했다.: 떨(VV) + **리(XSV)** + 어서 
 
-#### Compound and derived forms
-- **Adjective-Derived Verbs with '-어/아 지다' and '-어/아 하다':**
+2. **Adjective-Derived Verbs with '-어/아 지다' and '-어/아 하다'**
   - Some adjectives often combine with certain XSV elements, such as "-어(아)지다" or "-어(아)하다," forming a single derived verb. In these cases, there are two possible tagging approaches:
   (1) Tagging the adjective stem separately from XSV
   (2) If the derived verb occurs frequently, treating it as a single verb and tagging it as VV
