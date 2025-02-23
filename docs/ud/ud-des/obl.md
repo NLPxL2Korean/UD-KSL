@@ -1,4 +1,4 @@
-## obl: Oblique nominal adverbial
+## obl: Oblique nominal
 
 ### Definition
 `obl` refers to a nominal adverb that functions as a sentence component modifying the predicate.
