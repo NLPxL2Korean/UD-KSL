@@ -1,6 +1,5 @@
 ## Annotation guidelines
-- This page is a live resource that is consistently updated with the latest annotation guidelines and best practices.
-- For further inquiries, please contact Hakyung Sung (hsung@uoregon.edu).
+- This page is a live resource that is consistently updated with the latest annotation guidelines and best practices. For further inquiries, please contact Hakyung Sung (hsung@uoregon.edu).
 
 ### XPOS tags
 - XPOS tags refer to language-specific part-of-speech annotations. Detailed guidelines can be found [here](./xpos/README.md).
