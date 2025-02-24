@@ -1,4 +1,4 @@
-### The following table provides a Sejong Tag set. 
+### The following table provides a selected set of XPOS tags (based on the Sejong Tag set) used in the current UD_Korean-KSL. 
 
 | Tag | Description |
 |---|---|
@@ -15,13 +15,11 @@
 | [MM](./XPOS-des/20_MM.md) | Determiner (관형사) |
 | [MAG](./XPOS-des/11_MAG.md) | Adverb_common (일반 부사) |
 | [MAJ](./XPOS-des/25_MAJ.md) | Adverb_conjunctive (접속 부사) |
-| IC | Exclamation (감탄사) |
 | [JKS](./XPOS-des/12_JKS.md) | Postposition_nominative (주격 조사) |
 | [JKC](./XPOS-des/32_JKC.md) | Postposition_complement (보격 조사) |
 | [JKG](./XPOS-des/22_JKG.md) | Postposition_prenominal (관형격 조사) |
 | [JKO](./XPOS-des/10_JKO.md) | Postposition_objectival (목적격 조사) |
 | [JKB](./XPOS-des/7_JKB.md) | Postposition_adverbial (부사격 조사) |
-| JKV | Postposition_vocative (호격 조사) |
 | [JKQ](./XPOS-des/33_JKQ.md) | Postposition_quotative (인용격 조사) |
 | [JC](./XPOS-des/27_JC.md) | Postposition_conjunctive (접속 조사) |
 | [JX](./XPOS-des/8_JX.md) | Postposition_auxiliary (보조사) |
