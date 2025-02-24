@@ -1,4 +1,4 @@
-### The following table presents a selected set of UD tags used in the current UD-KSL annotations.
+### The following table presents a selected set of UD tags used in the current UD_Korean-KSL.
 
 | Tag | Description |
 | --- | ----------- |
@@ -33,8 +33,3 @@
 | [discourse](./ud-des/discourse.md) | Discourse element |
 | [fixed](./ud-des/fixed.md) | Fixed multiword expression |
 | [dep](./ud-des/dep.md) | Unspecified dependency relation |
-
-#### References
-
-- Sung, H., & Shin, G.-H. (forthcoming). Second language Korean Universal Dependency treebank v1.2: Focus on data augmentation and annotation scheme refinement. In *Proceedings of the Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)*.
-- Sung, H., & Shin, G.-H. (2024). Constructing a dependency treebank for second language learners of Korean. In *Proceedings of the International Conference on Language Resources and Evaluation (LREC-COLING 2024)*. https://aclanthology.org/2024.lrec-main.332/
