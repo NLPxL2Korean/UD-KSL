@@ -8,10 +8,13 @@
 ### Characteristics
 - The punct tag does not establish syntactic relations but contributes to sentence structure, disambiguation, and readability.
 - The punct tag is typically used at the end of a sentence and depends on the root of the sentence. When used in the middle of a sentence, it may depend on the preceding or following unit depending on the context. For example, paired punctuation marks such as quotation marks depend on the unit that serves as the root within the quoted sentence.
-- **Examples**:
-    - 빌리씨 **,** 잘 지냈어요 **?**
-    - **"** 사진기를 빌려주세요 **"** 라고 부탁했다 **.**
-    - 설문조사 결과에서 응답자의 50 **%** 가 만족했습니다 **.**
+<p><strong>Examples</strong>:</p>
+<ul>
+  <li>빌리씨<strong>,</strong> 잘 지냈어요<strong>?</strong></li>
+  <li><strong>"</strong>사진기를 빌려주세요<strong>"</strong> 라고 부탁했다<strong>.</strong></li>
+  <li>설문조사 결과에서 응답자의 50<strong>%</strong>가 만족했습니다<strong>.</strong></li>
+</ul>
+
 ---
 
 ### Examples
