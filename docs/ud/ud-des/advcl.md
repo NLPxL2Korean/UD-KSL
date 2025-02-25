@@ -26,7 +26,7 @@
 #### Special cases
 - **The syntactic structure of 'advcl + mark':**
     - The marker is a function word that makes one clause subordinate to another, typically following the advcl.
-    - In the 'advcl + mark' structure, the advcl usually contains an ETM (Ending_Determinitive, 관형형 전성 어미). From a morphological perspective, the verb or adjective in the advcl modifies the noun in the mark. From a syntactic perspective, the mark tag serves a grammatical function that allows the advcl to subordinate to another clause.
+    - In the advcl + mark structure, the advcl usually contains an ETM (Ending_Determinitive, 관형형 전성 어미). From a morphological perspective, the verb or adjective in the advcl modifies the noun in the mark. From a syntactic perspective, the mark tag serves a grammatical function that allows the advcl to subordinate to another clause.
         - 점심을 **먹은**(advcl) **후에**(mark) 다 같이 출발합시다.
         - 저는 **어렸을**(advcl) **때부터**(mark) 피아니스트가 되고 싶었습니다.
 
