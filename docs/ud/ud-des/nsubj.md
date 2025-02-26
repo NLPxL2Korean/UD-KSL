@@ -39,8 +39,6 @@
    - This criterion is applied to all major syntactic components typically marked by case markers in Korean. Since case markers play a crucial role in Korean syntax, this approach minimizes the risk of assigning tags based on subjective interpretation.
      - 이야기를 하면서 <ins>**기억이(*기억을)**</ins> 떠올려 보세요.
      - <ins>**제가**</ins> <ins>**친구가**</ins> 선물을 주었습니다.
-    
-     - 
 
 ---
 
