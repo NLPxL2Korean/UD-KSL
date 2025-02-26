@@ -1,16 +1,11 @@
 # UD-KSL
 
-This repository contains information for the most recently updated UD_Korea as a second language (UD_Korean-KSL) treebank.
-UD_Korean-KSL is a dependency treebank of L2 Korean featuring manual annotations for morphemes and Universal Dependencies.
-An official UD treebank is available [here](https://github.com/UniversalDependencies/UD_Korean-KSL/tree/dev).
+This repository contains information on the most recently updated UD_Korean-KSL treebank. UD_Korean-KSL is a dependency treebank for second language (L2) Korean that features manual annotations for morphemes and Universal Dependencies. An official UD treebank is available [here](https://github.com/UniversalDependencies/UD_Korean-KSL/tree/dev). The updated L2-Korean UD treebank (v1.2) comprises 12,977 sentences.
 
-On this page, you will find the latest trained models using the UD_Korean-KSL treebank, along with the corresponding documentation.
-The updated L2-Korean UD treebank (v1.2) currently comprises 12,984 sentences.
+On this page, you will find supplementary information about using the UD_Korean-KSL treebank: related papers, annotation guidelines, and fine-tuned L2-Korean models.
 
-
-## Live documentation guideline
-
-For live guidelines and further documentation, please visit our [documentation page](https://nlpxl2korean.github.io/UD-KSL/).
+## Annotation guidelines
+For the most up-to-date annotation guidelines, please visit our [page](https://nlpxl2korean.github.io/UD-KSL/).
 
 ## References
 
