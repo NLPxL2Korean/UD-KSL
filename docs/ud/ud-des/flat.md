@@ -18,7 +18,7 @@
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-- **flat vs. appos (appositional modifier):**  
+- **flat vs. appos (Appositional modifier):**  
     - Both flat and appos indicate relationships between noun phrases. However, the key difference lies in their semantic and structural dependence.
     - Removing an element from a fixed expression marked with flat changes the meaning or renders the expression ungrammatical. In contrast, removing an element marked with appos reduces information but does not alter the core meaning.
     - In a flat structure, the second noun typically depends on the preceding noun. In an appos structure, the dependent noun can appear either before or after the head noun, depending on the sentence structure.
