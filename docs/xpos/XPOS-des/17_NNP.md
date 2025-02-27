@@ -6,7 +6,7 @@ NNP refers to a noun that represents a unique name distinguishing a specific obj
 ---
 
 ### Characteristics
-- NNP refers to specific entities, including names of people, places, organizations, and titles. As a type of noun, NNP functions grammatically in the same way as Noun_common(NNG).
+- NNP refers to specific entities, including names of people, places, organizations, and titles. - As a type of noun, NNP functions grammatically in the same way as NNG(Noun_common, 보통 명사).
 - **Examples**:
     - 제 친구 **제니퍼**는 **한국**에 있습니다.
     - 주말에 **명동**에 갔습니다.
@@ -17,10 +17,10 @@ NNP refers to a noun that represents a unique name distinguishing a specific obj
 
 #### Special cases
 - **Distinction between NNP and NNG(Noun_common, 보통 명사):**
-    - n English, NNP is distinguished from NNG by capitalization. However, in Korean, the distinction between NNP and NNG is conceptual rather than visually apparent. Because NNP specifically refers to particular entities, it is often more challenging to translate into other languages compared to NNG.
+    - In English, NNP is distinguished from NNG by capitalization. However, in Korean, the distinction between NNP and NNG is conceptual rather than visually apparent. Because NNP specifically refers to particular entities, it is often more challenging to translate into other languages compared to NNG.
     - Not all unique entities qualify as NNP. For example, while "sun" and "earth" are unique objects, they are categorized as NNG. Even though multiple individuals may have the name "Chulsoo," it is classified as NNP because it is a proper name.
-        - **NNP**: **빌리** 씨는 사진 찍는 것을 좋아합니다. (Billy likes taking photos.)
-        - **NNG**: **해**가 뜨자마자 우리는 출발했습니다. (As soon as the sun rose, we departed.)
+        - **NNP**: **빌리** 씨는 사진 찍는 것을 좋아합니다.
+        - **NNG**: **해**가 뜨자마자 우리는 출발했습니다.
     
 ---
 
