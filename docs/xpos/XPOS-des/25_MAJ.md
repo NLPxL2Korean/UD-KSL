@@ -1,25 +1,24 @@
 ## MAJ: Adverb_conjunctive (접속 부사)
 
 ### Definition
-MAJ refers to adverbs that function as discourse markers by connecting clauses, sentences, or larger discourse segments.
+MAJ refers to adverbs that connect clauses, sentences, or larger discourse segments.
 
 ---
 
 ### Characteristics
-- MAJ functions as sentence adverbs, appearing at the beginning of clauses or between clauses to indicate logical relationships such as contrast, cause-effect, addition, or sequence.
-- **Examples**: 하지만 (however), 왜냐하면 (because), 또한 (additionally), 따라서 (therefore)
+- MAJ functions as a sentence-level adverb, appearing at the beginning of sentences or clauses or between clauses to indicate logical relationships such as contrast, cause-effect, addition, or sequence.
+- **Examples**: 하지만(however), 왜냐하면(because), 또한(additionally), 따라서(therefore)
 
 ---
 
 ### Boundary cases and clarifications
 
 #### Special cases
-- **Parsing of idiomatic expression involving MAJ:**  
-    - '그럼에도 불구하고' is discourse markers used to introduce a concessive clause, indicating that the following content contrasts with the preceding statement, similar to *nevertheless* in English.
-    - '그럼에도' often serves as a discourse marker that replaces the full phrase, it should be tagged as a single MAJ. Meanwhile, '불구하고' should be parsed by separating its root, affix, and ending.
-        - **Example:**
-            - 시험 결과가 좋지 않았다. **그럼에도 (MAJ)** 후회는 없다.
-            - 외국에 살면 생활비가 많이 든다. **그럼에도(MAJ) 불구하고(XR+XSV+EC)** 외국에서는 다양한 경험을 할 수 있어서 만족한다.
+- **Parsing of idiomatic expressions involving MAJ:**  
+    - '그럼에도 불구하고' is a discourse marker introducing a concessive clause, indicating contrast with the previous statement, similar to **nevertheless** in English.
+    - '그럼에도' often replaces the full phrase as a discourse marker and should be tagged as a single MAJ. Meanwhile, '불구하고' should be analyzed by separating its root, affix, and ending.
+        - 시험 결과가 좋지 않았다. **그럼에도(MAJ)** 후회는 없다.
+        - 외국에 살면 생활비가 많이 든다. **그럼에도(MAJ) 불구하고(XR+XSV+EC)** 다양한 경험을 할 수 있어서 만족한다.
 
 ---
 
