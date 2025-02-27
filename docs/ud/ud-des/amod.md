@@ -17,9 +17,9 @@
 ### Boundary cases and clarifications
 #### Differences with related tags
 - **amod vs. det (Determiner):**  
-  - Both amod and det limit the meaning of the following noun. In terms of part of speech, amod consists of determiners or adjectives that describe the appearance, state, or quality of a noun, while det generally consists of demonstrative determiners.  
-    - **amod**: <ins>**아름다운**</ins> 나무를 본다.  
-    - **det**: <ins>**그**</ins> 나무를 본다.
+    - Both amod and det serve to restrict the meaning of the noun they modify. In terms of part of speech, amod consists of adjectives or determiners that describe a noun’s appearance, state, or quality, whereas det primarily includes determiners that express demonstrative reference or quantity.
+        - **amod**: <ins>**아름다운**</ins> 나무를 본다.  
+        - **det**: <ins>**그**</ins> 나무를 본다.
 
 ---
 
