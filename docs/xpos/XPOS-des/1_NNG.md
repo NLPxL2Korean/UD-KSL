@@ -16,7 +16,7 @@ NNG refers to general entities, objects, concepts, or phenomena.
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-- **NNG vs. NNP (Noun_proper, 고유 명사)):**  
+- **NNG vs. NNP (Noun_proper, 고유 명사):**  
   NNG is used for general nouns, while NNP is reserved for specific names, such as the names of people, places, or organizations.  
   - **NNG**: 사람 (person), 도시 (city), 나라 (country)  
   - **NNP**: 철수 (Cheol-Soo), 서울 (Seoul), 태국 (Thailand)  
@@ -33,5 +33,5 @@ NNG refers to general entities, objects, concepts, or phenomena.
 
 - <ins>**나무**</ins>가 많았습니다.  
 - 우리는 <ins>**음식**</ins>을 먹습니다.  
-- 어제 저는 <ins>**학교**</ins>에 갔습니다.  
+- 저는 <ins>**학교**</ins>에 갔습니다.  
 - 제 <ins>**나라**</ins>의 <ins>**계절**</ins>은 아주 좋아요. 
