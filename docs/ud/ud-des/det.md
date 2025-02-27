@@ -6,7 +6,7 @@
 ---
 
 ### Characteristics
-- The det tag modifies a noun and typically depends on the immediately following noun.
+- The det tag modifies a noun and typically depends on the following noun.
 - The det tag generally consists of MM(Determiner, 관형사). Common examples of MM tagged as det include 'demonstrative determiners' such as '이(this)', '그(that)', and '저(that)', as well as MM that limit the quantity of a noun, such as '모든(every)' and '몇(some/few)'.
 - **Examples**:
     - <ins>**이**</ins> 영화를 <ins>**모든**</ins> 사람들에 추천합니다.  
