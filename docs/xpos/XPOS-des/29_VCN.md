@@ -1,13 +1,13 @@
 ## VCN: Copular_negative (부정 지정사)
 
 ### Definition
-VCN refers to a copular that conveys negation of a fact.
+VCN refers to a copular that expresses the negation of a fact.
 
 ---
 
 ### Characteristics
-- The most common VCN is '아니다'(*not be*). Unlike VCP such as  '이다'(*be*), which functions similarly to a postposition within a sentence, '아니다' behaves like an adjective.
-- Sentences with '아니다' require a complement, which is marked by the postposition '이/가'.
+- The most common VCN is '아니다'. Unlike VCP such as '이다', which functions similarly to a postposition, '아니다' functions similarly to an adjective.
+- Sentences with '아니다' require a complement, marked by the postposition '이/가'.
 - **Examples**:
     - 나는 **학생이 아니다**. (I *am not* a student.)
     - 김치는 **한국 음식이 아닌가**? (*Isn't* kimchi a Korean dish?)
