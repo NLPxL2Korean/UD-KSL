@@ -1,7 +1,7 @@
 ## VV: Verb_main (동사)
 
 ### Definition
-VV refers to actions, movements, states, or occurrences as the stem of a verb.
+VV refers to an action, movement, state, or occurrence as the stem of a verb.
 
 ---
 
