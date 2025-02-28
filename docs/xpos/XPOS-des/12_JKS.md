@@ -1,7 +1,7 @@
 ## JKS: Postposition_nominative (주격 조사)
 
 ### Definition
-JKS is a postposition that attaches to nouns and pronouns to mark the subject in a sentence, functioning as a case marker.
+JKS refers to a postposition that attaches to nouns and pronouns to mark the subject in a sentence, functioning as a case marker.
 
 ---
 
