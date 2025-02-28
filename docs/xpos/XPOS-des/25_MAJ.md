@@ -1,7 +1,7 @@
 ## MAJ: Adverb_conjunctive (접속 부사)
 
 ### Definition
-MAJ refers to adverbs that connect clauses, sentences, or larger discourse segments.
+MAJ refers to an adverb that connects clauses, sentences, or larger discourse segments.
 
 ---
 
