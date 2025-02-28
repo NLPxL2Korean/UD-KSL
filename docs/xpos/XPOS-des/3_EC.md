@@ -1,16 +1,16 @@
 ## EC: Ending_connecting (연결 어미)
 
 ### Definition
-EC is a type of verbal ending that connects clauses or phrases, linking them without final termination and often indicating logical relationships between clauses.
+EC refers to an ending of a predicate that connects clauses or phrases, linking them without final termination and indicating logical relationships between clauses.
 
 ---
 
 ### Characteristics
 - EC represents various relationships between clauses, including conditional, contrastive, purposive, causal, and coordinate relations, among others.
-  - **Examples**:
-    - 도착하**면** 호텔에 갈 겁니다.
-    - 등산이 힘들었**지만** 풍경이 아름다웠습니다.
-    - 친구들과 만나**려고** 놀이터에 가요.
+- **Examples**:
+  - 도착하**면** 호텔에 갈 겁니다.
+  - 등산이 힘들었**지만** 풍경이 아름다웠습니다.
+  - 친구들과 만나**려고** 놀이터에 가요.
 
 ---
 
@@ -18,24 +18,22 @@ EC is a type of verbal ending that connects clauses or phrases, linking them wit
 
 #### Differences with related tags
 - **EC vs. EF (Ending_closing, 종결 어미):**  
-  - ECs connect clauses, while EFs terminate a sentence and mark its modality.  
+  - EC connects clauses, while EF ends a sentence and indicates its modality.
     - **EC**: 비가 **와서** 우산을 챙긴다.  
-    - **EF**: 비가 **온다**. 우산을 **챙긴다**.  
+    - **EF**: 비가 **온다**. 우산을 **챙긴다**.
 
 #### Special cases
-1. **Clause endings and sentence completion:**  
-   - Specific endings like "-는지" and "-ㄹ지" can be tagged as either EC or EF depending on the context. Unless the ending is used to complete a sentence and is tagged as EF, it is consistently tagged as EC when functioning within a clause.  
-      - 그가 언제 오**는지**(EC) 궁금하다.  
-      - 그가 언제 오**는지**(EF).
+1. **Clause endings and sentence completion**  
+   - Specific endings like '-ㄴ/는지' and '-ㄹ/을지' can be tagged as either EC or EF depending on the context. If the ending completes a sentence, it is tagged as EF. Otherwise, when it functions within a clause, it is consistently tagged as EC.
+    - 그가 언제 오**는지**(EC) 궁금하다.  
+    - 그가 언제 오**는지**(EF).
 
-2. **Morphological variations:**
-    - In Korean, the form of a EC consistently varies depending on the final syllable of the verb stem. For examples, when the final vowel of the verb stem is 'ㅏ' or 'ㅗ', the ending takes the form '아'. For all other vowels, the ending is written as '어'.
-    - Some verbs or adjectives may have exceptions that alter the ending's form. For instance, when the verb '하다' is combined with the ending '아', the resulting EC takes the form '여'. Nevertheless, in the Korean-GSD corpus, '하여(해)' is parsed as '하+아', maintaining the original form of the ending, thus adhering to the standard rule.
-        - 학교를 가**서** → 가 + **아서** (EC)
-        - 음악을 **들어서** → 듣 + **어서** (EC)  
-        - 수영을 **해서** → 하 +  **아서** (EC)
-    
-     
+2. **Morphological variations**
+  - In Korean, the form of an EC changes depending on the final syllable of the verb stem. If the final vowel of the verb stem is 'ㅏ' or 'ㅗ', the ending takes the form '아'. For all other vowels, the ending is '어'.
+  - Some verbs and adjectives have exceptions that alter the ending's form. For example, when the verb '하다' combines with the EC '아', the resulting form is '여' instead of '하아'. However, in the Korean-GSD corpus, '하여(해)' is analyzed as '하+아', preserving the original ending structure and following the standard rule.
+    - 학교를 가**서**: 가 + **아서**(EC)
+    - 음악을 **들어서**: 듣 + **어서**(EC)  
+    - 수영을 **해서**: 하 +  **아서**(EC)
 
 ---
 
