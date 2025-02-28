@@ -1,16 +1,16 @@
 ## JX: Postposition_auxiliary (보조사)
 
 ### Definition
-JX refers to postpositions that modify the meaning of a phrase by adding contrast, topic marking, or other discourse-related functions, rather than assigning a specific grammatical case.
+JX refers to a postposition that modifies the meaning of a phrase by adding contrast, topic marking, or other discourse-related functions, rather than assigning a specific grammatical case.
 
 ---
 
 ### Characteristics
-- JX can attach not only to nouns and noun phrases but also to verb endings, providing additional nuance to a sentence without changing its grammatical role.  
+- JX can attach not only to nouns but also to verb endings, providing additional nuance to a sentence without changing its grammatical role.  
 - JX postpositions can follow case markers, or they can appear consecutively in a sequence of JX postpositions.  
 - **Examples**:
     - 한국에서**만**  
-    - 8월**까지는**
+    - 8월**까지는**('까지' + '는')
     - 그가 바빴다**손** 치더라도
 
 ---
@@ -18,17 +18,16 @@ JX refers to postpositions that modify the meaning of a phrase by adding contras
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-
 - **JX vs. JKS (Postposition, nominative, 주격 조사):**  
-  - JX does not determine grammatical relations but adds emphasis or contrast, whereas JKS marks the grammatical subject of a clause.  
-    - **JX**: **나도** 책을 읽는다. (I *also* read books.)  
-    - **JKS**: **내가** 책을 읽는다. (I read books.)  
+  - JX does not determine a grammatical relation but adds emphasis or contrast, whereas JKS marks the grammatical subject of a clause.  
+      - **JX**: **나도** 책을 읽는다. (I **also** read books.)  
+      - **JKS**: **내가** 책을 읽는다.
 
 #### Special cases
 - **JX without a preceding word:**  
-  - **'뿐만 아니라'** can be used at the beginning of a sentence without a preceding phrase, functioning as a connective expression that extends the previous sentence’s meaning. 
-  - While JX typically appears alongside a preceding word, this phrase has become conventionalized as an exception. In this case, **'뿐'** and **'만'** are both tagged as JX.  
-    - 운동은 신체 건강에 도움이 된다. **뿐만(JX+JX)** 아니라 정신 건강에**도(JX)** 좋다.  
+    - **'뿐만 아니라'** can be used at the beginning of a sentence, functioning as a connective expression that extends the previous sentence’s meaning. 
+    - While JX typically appears alongside a preceding word, this phrase has become conventionalized as an exception. In this case, **'뿐'** and **'만'** are both tagged as JX.  
+        - 운동은 신체 건강에 도움이 된다. **뿐만**(JX+JX)아니라 정신 건강에**도**(JX) 좋다.  
 
 ---
 
