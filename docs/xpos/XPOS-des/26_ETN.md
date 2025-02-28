@@ -1,13 +1,13 @@
 ## ETN: Ending_nounal (명사형 전성 어미)
 
 ### Definition
-ETN refers to endings that convert verbs or adjectives into noun phrases.
+ETN refers to an ending of a predicate that converts a verb or adjective into a noun phrase.
 
 ---
 
 ### Characteristics
-- ETN allows predicates to function as noun-like elements within a sentence, enabling them to take postpositions and thereby serve as subjects, objects, or other sentence components.
-- Commonly used ETN endings include '-(으)ㅁ' and '-기'.
+- ETN converts predicates into noun-like elements within a sentence, allowing them to take postpositions and function as subjects, objects, or other grammatical components.
+- Commonly used ETN endings include '-ㅁ/음' and '-기'.
 - **Examples**:
     - 제 실력의 **부족함**을 알게 되었어요.
     - 시골에서 **지내기**가 참 좋다.
@@ -18,10 +18,10 @@ ETN refers to endings that convert verbs or adjectives into noun phrases.
 
 #### Special cases
 - **Distinction between ETN and XSN (Suffix_noun derivative, 명사 파생 접미사):**  
-    - Some elements, such as '-음' and '-기,' can function as both verbal endings and suffixes. Both serve the function of turning verbs into noun-like forms. According to Korean grammar rules, if a verb or adjective has a suffix attached and is listed as a noun in the dictionary, it is parsed as XSN, not ETN.
-    - However, the XSN tag is primarily treated as a suffix of nouns rather than a true derivational morpheme. Therefore, words that can fall under both categories are generally parsed as ETN.
-        - 한국어 **말하기(NNG+XSV+ETN)** 연습을 많이 할 겁니다.
+    - Some elements, such as ‘-ㅁ/음’ and ‘-기,’ can function as both verbal endings and suffixes, both of which turn verbs into noun-like forms. According to Korean grammar rules, when a verb or adjective has a suffix attached and is listed as a noun in the dictionary, it is parsed as XSN rather than ETN.
+    - However, the XSN tag is primarily considered a noun suffix rather than a true derivational morpheme. Therefore, elements that could fall into both categories are generally parsed as ETN.
         - 아침에 **달리기(VV+ETN)** 운동을 하는 게 좋습니다.
+        - 한국어 **말하기(NNG+XSV+ETN)** 연습을 많이 할 겁니다.
 
 ---
 
