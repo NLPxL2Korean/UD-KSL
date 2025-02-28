@@ -1,7 +1,7 @@
 ## JKG: Postposition_prenominal (관형격 조사)
 
 ### Definition
-JKG refers to prenominal postpositions that attach to nouns to indicate possession or modify the preceding words by specifying their attributes.
+JKG is a prenominal postposition that attaches to nouns to indicate possession or modify the preceding words by specifying their attributes.
 
 ---
 
