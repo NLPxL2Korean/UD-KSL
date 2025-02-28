@@ -26,7 +26,7 @@
 
 #### Special cases
 1. **Parsing complements**
-  - In Korean, **JKC (Postposition_complement, 보격 조사)** has the same form as **JKS (Postposition_nominative, 주격 조사)**. In the UD scheme, nominal complements are not treated as a separate category but are instead parsed as nsubj.
+  - In Korean, **JKC (Postposition_complement, 보격 조사)** has the same form as JKS (Postposition_nominative, 주격 조사). In the UD scheme, nominal complements are not treated as a separate category but are instead parsed as nsubj.
     - 그 사람이 **부자가** 되었다.
     - 나는 **학생이** 아니다.
 
@@ -39,7 +39,7 @@
   - In ungrammatical sentences, an element with JKS (e.g., '이/가') is tagged as nsubj, even if it is not the logical subject.  
   - If there is no case marker, the subject is identified based on context and tagged as nsubj.
   - This rule applies to all major syntactic components that are usually marked by case markers in Korean. Since case markers are essential in Korean syntax, this approach helps prevent subjective tagging.
-    - 그 날의 **기억이(*기억을)** 떠올려 보세요.
+    - 그 날의 **기억이**(*기억을) 떠올려 보세요.
     - **제가** **친구가** 선물을 주었습니다.
 
 ---
