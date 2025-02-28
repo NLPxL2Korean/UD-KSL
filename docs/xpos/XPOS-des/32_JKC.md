@@ -1,7 +1,7 @@
 ## JKC: Postposition_complement (보격 조사)
 
 ### Definition
-JKC refers to postpositions that attach to nouns and pronouns to indicate their role as complements in a sentence, functioning as case markers.
+JKC refers to a postposition that attach to nouns and pronouns to indicate their role as complements in a sentence, functioning as a case marker.
 
 ---
 
