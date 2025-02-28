@@ -7,7 +7,7 @@ JKO refers to a postposition that attaches to nouns and pronouns to indicate var
 
 ### Characteristics
 - ‘을’ and ‘를’ are used with objective elements, which serve as the target of an action within a sentence that includes a transitive verb.  
-- The choice between ‘을’ and ‘를’ depends on the final sound of the preceding noun; 을 is used after a noun ending in a consonant, and 를 is used after a noun ending in a vowel.  
+- The choice between ‘을’ and ‘를’ depends on the final sound of the preceding noun; '을' is used after a noun ending in a consonant, and '를' is used after a noun ending in a vowel.  
   - **Examples**:
     - 나는 책**을** 읽었다.
     - 나는 사과**를** 먹는다.
