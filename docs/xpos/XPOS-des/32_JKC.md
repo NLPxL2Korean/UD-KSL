@@ -7,7 +7,7 @@ JKC refers to a postposition that attaches to nouns and pronouns to indicate the
 
 ### Characteristics
 - '이' and '가' are representative JKC markers. 
-- Typical predicates that require a complement include '되다' and '아니다.' JKC primarily marks the entity that undergoes change before '되다' and can often be replaced with a postposition like '(으)로.' Before '아니다,' JKC indicates the entity being negated.
+- Typical predicates that require a complement include '되다' and '아니다'. JKC primarily marks the entity that undergoes change before '되다', and in many cases, it can be replaced with the postposition '(으)로'. Before '아니다,' JKC indicates the entity being negated.
 - The choice between '이' and '가' depends on whether the preceding noun ends in a final consonant.
 - **Examples**:
     - 물이 **얼음이** 되었다. (The water became **ice**.)
