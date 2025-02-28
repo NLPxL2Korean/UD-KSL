@@ -7,9 +7,7 @@ JKS refers to a postposition that attaches to nouns and pronouns to mark the sub
 
 ### Characteristics
 - JKS (e.g., '이', '가', '서') attaches to the subject of a sentence, which represents the agent or entity performing an action or being in a certain state.
-- The choice between ‘이’ and ‘가’ depends on the final sound of the preceding noun:  
-  - '이' follows a noun ending in a consonant.
-  - '가' follows a noun ending in a vowel.
+- The choice between ‘이’ and ‘가’ depends on the final sound of the preceding noun: ‘이’ is used after a noun ending in a consonant, while ‘가’ is used after a noun ending in a vowel.
 - '께서' functions as a subject marker while also adding a respectful or honorific nuance to the referent.
 - **Examples**:  
   - 이 책**이** 재미있다.
