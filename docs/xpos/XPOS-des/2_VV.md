@@ -27,7 +27,7 @@ VV refers to actions, movements, states, or occurrences as the stem of a verb.
       - **VV**: 음식을 **먹다** (I **eath** food.)
       - **VX**: 음식을 먹어 **본다** (I **try** eating the food.)
 
-## Special cases
+#### Special cases
 - **Phonological changes in VV with endings:**
   - When certain endings are attached, VV can undergo phonological changes such as deletion, addition, or modification. In such cases, it is important to preserve the original VV form while parsing the morphemes separately.
     - 바람이 **부니까**: **불**(VV) + -니까  
