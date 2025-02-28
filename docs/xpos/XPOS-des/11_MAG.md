@@ -1,13 +1,13 @@
 ## MAG: Adverb_common (일반 부사)
 
 ### Definition
-MAG refers to adverbs that primarily modify predicates, other adverbs, or entire sentences.
+MAG refers to an adverb that primarily modifies a predicate, another adverb, or an entire sentence.
 
 ---
 
 ### Characteristics
 - MAG adds information about manner, degree, frequency, time, or place.
-- It usually comes before what it modifies, but some MAGs can change position depending on the sentence structure.
+- MAG usually comes before what it modifies, but its position can be flexible depending on the sentence structure.
 - **Examples**:  
   - 저는 **진짜 열심히** 말하기를 연습했어요.
   - 한국어 실력이 **이제 많이** 늘었어요.
