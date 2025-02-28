@@ -1,13 +1,13 @@
 ## EF: Ending_closing (종결 어미)
 
 ### Definition
-EF is a type of verbal ending that indicates the completion of a sentence and conveys the sentence mood at the end of verbal stems.
+EF refers to an ending of a predicate that indicates the completion of a sentence and conveys the sentence mood at the end of a verbal stem.
 
 ---
 
 ### Characteristics
 - EF attaches to a verbal stem and determines the sentence type (e.g., declarative, interrogative, imperative, or suggestive) as well as different speech levels and politeness forms in Korean.
-- The following punctuation (e.g., period, question mark, exclamation mark) can reinforce the function and nuance conveyed by EF.
+- Punctuation marks such as periods, question marks, and exclamation marks can enhance the function and nuance of EF.
   - **Examples**:
     - 잘 지**낸다** (Declarative)
     - 잘 지내**니**? (Interrogative)
@@ -19,27 +19,21 @@ EF is a type of verbal ending that indicates the completion of a sentence and co
 ### Boundary cases and clarifications
 
 #### Differences with related tags
-
 - **EF vs. EP (Ending_prefinal, 선어말 어미):**  
-  While **EF** finalizes the sentence, **EP** appears before EF to indicate tense or honorific meaning. Generally, Korean verb endings follow the order: verbal stem + EP + EF.  
-    - **Examples**:
-      - 학교에 **가다**(VV+EF): I go to school.  
-      - 학교에 **갔다**(VV+EP+EF): I went to school.  
-
----
+  - While EF finalizes the sentence, EP appears before EF to indicate tense or honorific meaning. Generally, Korean verb endings follow the order: verbal stem + EP + EF.  
+    - 학교에 **가다**: 가(VV) + 다(EF)
+    - 학교에 **갔다**: 가(VV) + 았(EP) + 다(EF)
 
 #### Special cases
-
 - **Morphological variations:**  
   - In Korean, the form of an EF can change depending on the final syllable of the verb stem. This must be considered during parsing.  
-  - For example, the **"-습니다"** takes the form **"-ㅂ니다"** when the verb stem ends in a vowel or the final consonant 'ㄹ'.  
-    - 음식을 **먹습니다**: 먹- + **-습니다(EF)**  
-    - 학교에 **갑니다**: 가- + **-ㅂ니다(EF)**
+  - For example, the '-습니다' takes the form '-ㅂ니다' when the verb stem ends in a vowel or the final consonant 'ㄹ'.  
+    - 음식을 **먹습니다**: 먹(VV) + **-습니다**(EF)  
+    - 달리기를 **합니다**: 하(VV) + **-ㅂ니다**(EF)
 
 ---
 
 ### Examples
-
 - 삼계탕을 먹<ins>**는다**</ins>.  
 - 네 계절이 있<ins>**습니다**</ins>.  
 - 잘 지내셨<ins>**습니까**</ins>?  
