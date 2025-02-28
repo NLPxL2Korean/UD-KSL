@@ -6,7 +6,8 @@ NNP refers to a noun that represents a unique name distinguishing a specific obj
 ---
 
 ### Characteristics
-- NNP refers to specific entities, including names of people, places, organizations, and titles. - As a type of noun, NNP functions grammatically in the same way as NNG(Noun_common, 보통 명사).
+- NNP refers to a specific entity, including the name of a person, place, organization, or title.
+- As a type of noun, NNP functions grammatically in the same way as NNG (Noun_Common, 보통 명사).
 - **Examples**:
     - 제 친구 **제니퍼**는 **한국**에 있습니다.
     - 주말에 **명동**에 갔습니다.
@@ -29,8 +30,6 @@ NNP refers to a noun that represents a unique name distinguishing a specific obj
 - 영화 <ins>**터미네이터**</ins>는 전 세계적으로 큰 인기를 끌었습니다.
 - <ins>**태국**</ins>에서 저는 처음으로 <ins>**똠얌꿍**</ins>을 먹어봤습니다.
 - <ins>**빅뱅**</ins> 멤버들이 무대에 등장했을 때 분위기가 최고였다.
-
----
 
 ### References
 [https://encykorea.aks.ac.kr/Article/E0003875#]
