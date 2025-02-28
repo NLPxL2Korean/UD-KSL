@@ -6,11 +6,11 @@ NNB refers to a noun that cannot stand alone with complete meaning and must be m
 ---
 
 ### Characteristics
-- NNB represents abstract concepts or references to unspecified entities, requiring modifiers for a complete meaning.  
-- It also functions as a classifier for units and measurements, used when counting people, objects, occurrences, etc.  
+- NNB represents an abstract concept or an unspecified entity, requiring a modifier for a complete meaning.
+- NNB also functions as a classifier for units and measurements, used when counting people, objects, occurrences, etc.  
 - **Examples**:
-  - 내가 말한 **것** (*the thing* I mentioned)  
-  - 내가 아는 **바** (*the fact* I know)  
+  - 내가 말한 **것** (**the thing** I mentioned)  
+  - 내가 아는 **바** (**the fact** I know)  
   - Classifier nouns: 년(year), 월(month), 일(day), 시(hour), 명(person)
 
 ---
@@ -20,7 +20,6 @@ NNB refers to a noun that cannot stand alone with complete meaning and must be m
 #### Differences with related tags  
 - **NNB vs. NNG (Noun_common, 보통 명사):**  
   - NNB requires an accompanying modifier, so it cannot appear at the beginning of a sentence. In contrast, NNG refers to independent nouns that can function as standalone words.  
-  - **Example**:  
     - 그는 **책(NNG)**을 읽는 **중(NNB)**이다.
 
 - **NNB vs. XSN (Suffix_noun_derivative, 명사 파생 접미사):**  
