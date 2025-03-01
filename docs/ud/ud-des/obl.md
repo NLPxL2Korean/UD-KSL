@@ -18,13 +18,13 @@
 
 ### Boundary cases and clarifications
 #### Differences with related tags
-- **obl vs. advmod (Adverbial modifier):**  
+1. **obl vs. advmod (Adverbial modifier)**  
     - Both the obl and advmod tags function as adverbials within a sentence. From a part-of-speech perspective, the obl tag generally includes a noun, whereas the advmod tag typically consists of either adverbs or verb stems combined with the suffix '-게'.
     - Some Korean words such as '어제' and '오늘' can function as both nouns and adverbs, allowing for both obl and advmod tagging depending on the context.
         - **obl**: **기차로** 이동합니다.
         - **advmod**: **천천히** 이동합니다.
 
-- **obl vs. conj (Conjunct):**  
+2. **obl vs. conj (Conjunct)**  
     - Some JKBs (Postposition_adverbial, 부사격 조사) share the same surface form as certain JCs (Postposition_conjunctive, 접속 조사), such as ‘와/과’, ‘하고’, and ‘(이)랑’. When functioning as JKBs, they are parsed with the obl tag, whereas when functioning as JCs, they are related to the conj tag.
     - The obl is used when the phrase modifies or specifies the predicate, while the conj indicates an equal relationship between two words or phrases in the sentence.
     - The obl tag is generally dependent on the root of the sentence or clause, while the conj tag is dependent on a preceding word that it connects to as an equal.
