@@ -49,4 +49,4 @@ EC refers to an ending of a predicate that connects clauses or phrases, linking 
 ---
 
 ### References
-[Center for teaching and learning Korean]([https://kcenter.korean.go.kr/kcenter/](https://kcenter.korean.go.kr/kcenter/search/dgrammar.do?mode=&id=&srchChosung=&searchCategory=03&searchGrade=&searchTabMenu=&searchChineseYn=&curPage=1&srchKey=headword&srchKeyword=))
+[Center for teaching and learning Korean](https://kcenter.korean.go.kr/kcenter/search/dgrammar.do)
