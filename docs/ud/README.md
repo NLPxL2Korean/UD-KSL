@@ -21,14 +21,14 @@
 | [flat](./ud-des/flat.md) | Flat multiword expression |
 | [ccomp](./ud-des/ccomp.md) | Clausal complement |
 | [dislocated](./ud-des/dislocated.md) | Dislocated element |
-| [mark](./ud-des/mark.md) | Marker (subordinating element) |
+| [mark](./ud-des/mark.md) | Marker |
 | [list](./ud-des/list.md) | List marker |
-| [goeswith](./ud-des/goeswith.md) | Goeswith (for discontinuous expressions) |
+| [goeswith](./ud-des/goeswith.md) | Goeswith |
 | [nummod](./ud-des/nummod.md) | Numeric modifier |
 | [appos](./ud-des/appos.md) | Appositional modifier |
-| [compound](./ud-des/compound.md) | Compound (of words) |
+| [compound](./ud-des/compound.md) | Compound |
 | [vocative](./ud-des/vocative.md) | Vocative |
-| [parataxis](./ud-des/parataxis.md) | Parataxis (loose syntactic relation) |
+| [parataxis](./ud-des/parataxis.md) | Parataxis |
 | [csubj](./ud-des/csubj.md) | Clausal subject |
 | [discourse](./ud-des/discourse.md) | Discourse element |
 | [fixed](./ud-des/fixed.md) | Fixed multiword expression |
