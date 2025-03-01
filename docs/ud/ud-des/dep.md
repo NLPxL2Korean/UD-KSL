@@ -1,13 +1,13 @@
 ## dep: Unspecified dependency relation
 
 ### Definition
-`dep` refers to sentence components that are grammatically or semantically incorrect and cannot be assigned a specific UD tag.
+`dep` refers to a sentence component that is grammatically or semantically incorrect and cannot be assigned a specific UD tag.
 
 ---
 
 ### Characteristics
-- The dep tag is assigned when a component is ungrammatical or semantically unclear. It is typically parsed as a dependent of the root.
-- The dep tag serves as a fallback option in the UD scheme. If the erroneous component is a noun, it is tagged as advmod; if it is a predicate, it is tagged as advcl. If the part of speech is unclear, it is tagged as dep.
+- The dep tag is used when a component is ungrammatical or unclear in meaning. It is usually linked to the root of the sentence.
+- The dep tag is a fallback option in the UD system. If the error is a noun, it is tagged as advmod; if it is a verb, it is tagged as advcl. If the part of speech is unclear, it is tagged as dep.
 
 ---
 
