@@ -27,7 +27,7 @@ JKS refers to a postposition that attaches to nouns and pronouns to mark the sub
 #### Special cases  
 - **Double subject constructions:**  
   - Typically, a single predicate has one subject. However, some Korean sentences may appear to have two subjects, and in such cases, both can be tagged as JKS.
-    - 나는 친구**가**(JKS)** 좋다.
+    - 나는 친구**가**(JKS) 좋다.
     - 제**가**(JKS) 계획**이**(JKS) 있습니다. 
     - 3월**이**(JKS) 1월보다 날씨**가**(JKS) 따뜻해.
 
