@@ -7,7 +7,7 @@
 
 ### Characteristics
 - The parataxis tag represents loosely connected clauses that stand next to each other, often without a conjunction. This is generally dependent on the root of the sentence.
-- The parataxis tag frequently occurs when two or more independent clauses are juxtaposed using punctuation marks such as commas. In such cases, the predicate of the sentence uses EF (Ending-closing, 종결 어미) instead of EC (Ending-connecting, 연결 어미), making the structure grammatically awkward.
+- The parataxis tag often appears when two or more independent clauses are placed next to each other using punctuation marks like commas. In these cases, the clause uses EF (Ending-closing, 종결 어미) instead of EC (Ending-connecting, 연결 어미), which makes the sentence grammatically incorrect.
 
 ---
 
