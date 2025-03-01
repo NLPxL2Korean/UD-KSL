@@ -45,4 +45,4 @@ EF refers to an ending of a predicate that indicates the completion of a sentenc
 ---
 
 ### References
-- [Center for teaching and learning Korean](https://kcenter.korean.go.kr/kcenter/)
+[Center for teaching and learning Korean](https://kcenter.korean.go.kr/kcenter/)
