@@ -6,8 +6,8 @@
 ---
 
 ### Characteristics
-- The csubj tag is typically used to parse the predicate of a clause that functions as an essential subject within the sentence.
-- The csubj tag does not necessarily require a JKS(Postposition_nominative, 주격 조사) such as '이/가'. If there is no case marker, the clause is parsed as csubj if it has a semantic relationship as the subject of the root of the sentence.
+- The csubj tag is typically used to parse the predicate of a clause that functions as an main subject within the sentence.
+- The csubj tag doesn’t always need a JKS (Postposition_nominative, 주격 조사) such as '이/가'. If a clause functions as the subject of the sentence, it is parsed as a csubj, even if there is no subject marker.
 
 ---
 
