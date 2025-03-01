@@ -26,7 +26,7 @@
         - **conj**: 부산까지 기차로 **가고**(root) 거기에서 비행기로 **갈아탄다**.
 
 #### Special cases
-- **The syntactic structure of 'advcl + mark (Marker)':**
+- **The syntactic structure of advcl + mark (Marker):**
     - The mark tag is a function word that makes one clause subordinate to another, usually following the advcl.
     - In the advcl + mark structure, the advcl typically includes an ETM (Ending_Determinitive, 관형형 전성 어미). Morphologically, the verb or adjective in the advcl modifies the noun in the mark. Syntactically, the mark tag helps the advcl subordinate to another clause.
         - 점심을 **먹은**(advcl) **후에**(mark) 다 같이 출발합시다.
