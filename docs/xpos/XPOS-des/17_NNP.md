@@ -32,4 +32,4 @@ NNP refers to a noun that represents a unique name distinguishing a specific obj
 - <ins>**빅뱅**</ins> 멤버들이 무대에 등장했을 때 분위기가 최고였다.
 
 ### References
-[https://encykorea.aks.ac.kr/Article/E0003875#]
+(https://encykorea.aks.ac.kr/Article/E0003875#)
