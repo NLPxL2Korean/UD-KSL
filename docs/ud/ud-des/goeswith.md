@@ -20,11 +20,10 @@
 - **Handling of bound morphemes:**
   - The goeswith tag is used when suffixes (e.g., '들', '쯤') are mistakenly written separately instead of being attached to the word before them.
   - Although postpositions should also not be written separately from the preceding noun, if they are erroneously split, they are tagged as case (Case marker) rather than goeswith.
-- **Examples:**
-
-
-- 학교에서 외국어 교육을 11살 **쯤** (*11살쯤) 시작했다.
-- 언어 **들을** (*언어들을) 천천히 익히는 것이 중요하다.
+  - **Examples:**
+    - 학교에서 외국어 교육을 11살 **쯤** (*11살쯤) 시작했다.
+    - 언어 **들을** (*언어들을) 천천히 익히는 것이 중요하다.
+   
 ---
 
 ### Examples
