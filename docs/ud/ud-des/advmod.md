@@ -25,7 +25,7 @@
         - 한국어를 **자연스럽게**(advmod) 접하다보면 자기도 **모르게**(advcl) 익숙해집니다.
 
 #### Special cases
-- **Ungrammatical sentences element :**  
+- **Ungrammatical sentences element:**  
     - If a sentence element is an ungrammatical noun or appears to be a noun but its meaning cannot be clearly determined based on postpositions or context, it should be parsed as advmod and treated as dependent on the root. This ensures parsing consistency for elements with unclear meanings or functions.
         - 한국에 **저움** 가볼 계획이 있으세요?
         - 한국에 **저움** 가볼 계획이 있으세요?
