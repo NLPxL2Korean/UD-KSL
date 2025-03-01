@@ -24,7 +24,7 @@ XSA refers to a suffix that attaches to a noun or root to form an adjective stem
 
 #### Special cases
 - **Parsing approaches for XSA in different contexts:**
-  - While XSA primarily attaches to nouns, it can also attach to roots or determiners to form a adjective. In such cases, there are two possible parsing approaches: (1)Separating XSA for parsing, (2)Not distinguishing XSA and parsing only the VA.
+  - While XSA primarily attaches to nouns, it can also attach to roots or determiners to form a adjective. In such cases, there are two possible parsing approaches: (1) Separating XSA for parsing. (2) Not distinguishing XSA and parsing only the VA.
     - (1) 가을 날씨가 **쌀쌀하다**: 쌀쌀(XR) + **하**(XSA) + 다(EF)
     - (2) 오늘 **새로운** 사람들을 만났습니다: **새롭**(VA) + ㄴ(ETM)
 
