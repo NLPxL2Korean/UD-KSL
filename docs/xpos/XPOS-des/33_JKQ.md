@@ -15,7 +15,7 @@ JKQ refers to a postposition that indicates quoted speech, thoughts, or referenc
 
 ---
 
-###Boundary cases and clarifications
+### Boundary cases and clarifications
 
 #### Special cases
 1. **Use of '하고' as a quotative postposition**
