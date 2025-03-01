@@ -18,11 +18,11 @@ NNB refers to a noun that cannot stand alone with complete meaning and must be m
 ### Boundary cases and clarifications  
 
 #### Differences with related tags  
-**1. NNB vs. NNG (Noun_common, 보통 명사)**  
+1. **NNB vs. NNG (Noun_common, 보통 명사)**  
   - NNB requires an accompanying modifier, so it cannot appear at the beginning of a sentence. In contrast, NNG refers to independent nouns that can function as standalone words.  
     - 그는 **책(NNG)**을 읽는 **중(NNB)**이다.
 
-**2. NNB vs. XSN (Suffix_noun_derivative, 명사 파생 접미사)**  
+2. **NNB vs. XSN (Suffix_noun_derivative, 명사 파생 접미사)**  
   - NNB is essentially a noun, so it can be written separately from the preceding word, whereas XSN is an affix and must be written together with the preceding word.  
       - **NNB**: 빌리 **씨**, 낯선 **이**  
       - **XSN**: 사람**들**, 선생**님**  
