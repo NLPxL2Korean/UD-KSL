@@ -42,7 +42,7 @@ SS refers to a punctuation mark used to enclose or separate content, such as quo
 ### Examples
 - <strong>“</strong>주말에 봐요<strong>”</strong> 라고 인사했습니다.  
 - 인상 깊게 읽은 책은 <strong>‘</strong>데미안<strong>’</strong> 입니다.
-- 파티는 1월 25일 <strong>(</strong>일<strong>)</strong>에 열릴 예정이에요.  
+- 파티는 1월 25일<strong>(</strong>일<strong>)</strong>에 열릴 예정이에요.  
 
 ---
 
