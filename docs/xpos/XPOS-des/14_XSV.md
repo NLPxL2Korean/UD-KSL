@@ -10,7 +10,7 @@ XSV refers to a suffix that attaches to a noun or the stem of an adjective to fo
 - **Examples**:
   - 사랑 → 사랑**하다**: love → **to love**
   - 방송 → 방송**되다**: broadcast → **to be broadcast**
-  - 오염 → 오염**시키다**: contamination → **to contaminate** (something)
+  - 오염 → 오염**시키다**: contamination → **to contaminate**
 
 ---
 
