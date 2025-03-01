@@ -28,9 +28,9 @@ SN refers to a numerical character used to represent quantities, dates, times, o
 SP refers to a punctuation mark such as a comma, colon, or slash. A comma separates phrases, clauses, or list items. A colon introduces explanations, lists, or emphasis. A slash represents alternatives, date formats, or fractional values.
 
 ### Examples
-- 우리나라 계절에는 봄 **,** 여름 **,** 가을 **,** 겨울이 있습니다.  
-- 시간은 14 **:** 30입니다.  
-- 서울 **/** 부산 왕복 기차표를 예매했어요.  
+- 우리나라 계절에는 봄<strong>,</strong> 여름<strong>,</strong> 가을<strong>,</strong> 겨울이 있습니다.  
+- 시간은 14<strong>:</strong>30입니다.
+- 서울 <strong>/</strong> 부산 왕복 기차표를 예매했어요.  
 
 ---
 
