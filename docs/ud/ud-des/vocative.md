@@ -6,9 +6,9 @@
 ---
 
 ### Characteristics
-- The vocative tag is typically positioned at the beginning of a sentence and syntactically stands outside the main clause, functioning as a dependent in parsing.
+- The vocative tag usually comes at the beginning of a sentence and is separate from the main part of the sentence.
 - The vocative tag is generally composed of a noun or proper name, sometimes followed by particles such as '야' or '아', or honorific words like '-님' or '-씨'. It specifically indicates that the noun is being used to directly address someone.
-- **Examples**
+- **Examples**:
     - **빌리**, 너 잘 지내고 있니?  
     - **빌리** 씨, 안녕하세요!
 
