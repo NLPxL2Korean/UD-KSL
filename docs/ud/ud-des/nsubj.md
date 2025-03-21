@@ -26,7 +26,7 @@
 
 #### Special cases
 1. **Parsing complements**
-  - In Korean, JKC (complement case marker) looks the same as JKS (subject case marker), like '이/가'. So, the nominal complement in a sentence is tagged as nsubj.
+  - In Korean, JKC (Postposition_complement) looks the same as JKS (Postposition_nominative), like '이/가'. So, the nominal complement in a sentence is tagged as nsubj.
     - 그 사람이 **부자가** 되었다.
     - 나는 **학생이** 아니다.
 
