@@ -11,7 +11,7 @@ For the most up-to-date annotation guidelines, please visit our [page](https://n
 
 If you use our treebanks or models, please refer to the following papers:
 
-- Sung, H., Shin, G-H., Lee, C., Sung, Y-K., & Jung, B-K. (*forthcoming*). [UD-KSL Treebank v1.3: A semi-automated framework for aligning XPOS-extracted units with UPOS tags](./paper/LAW2025_manuscript-Final-070325). In *Proceedings of the 19th Linguistic Annotation Workshop (LAW-XIX)*.
+- Sung, H., Shin, G-H., Lee, C., Sung, Y-K., & Jung, B-K. (*forthcoming*). [UD-KSL Treebank v1.3: A semi-automated framework for aligning XPOS-extracted units with UPOS tags](./paper/LAW2025_manuscript-Final-070325.pdf). In *Proceedings of the 19th Linguistic Annotation Workshop (LAW-XIX)*.
 - Sung, H., & Shin, G-H. (2025). [Second language Korean Universal Dependency treebank v1.2: Focus on data augmentation and annotation scheme refinement](./paper/RESOURCEFUL_2025_Sung_Shin_L2K1_2_camera-ready_020125.pdf). In *Proceedings of the Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)*.
 - Sung, H., & Shin, G-H. (2024). [Constructing a Dependency Treebank for Second Language Learners of Korean](https://aclanthology.org/2024.lrec-main.332/). In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* (pp. 3747-3758).
 
