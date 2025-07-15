@@ -7,6 +7,9 @@ On this page, you will find supplementary information about using the UD_Korean-
 ## Annotation guidelines
 For the most up-to-date annotation guidelines, please visit our [page](https://nlpxl2korean.github.io/UD-KSL/).
 
+## Annotation demo
+Try the annotation model via our demo: [L2-Korean UD Annotation Assistant](https://huggingface.co/spaces/hksung/L2Korean-UD-annotation) (updated July 2025)
+
 ## References
 
 If you use our treebanks or models, please refer to the following papers:
